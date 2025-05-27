@@ -28,10 +28,6 @@ An AI-powered web application for detecting **pneumonia from chest X-ray images*
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/pneumonia-detector.git
-cd pneumonia-detector
-
 ### 2. Create a Virtual Environment
 bash
 Copy
